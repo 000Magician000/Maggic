@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce802bea-8e45-42d7-83f8-cdb42f235e16" name="Default" comment="Pyro">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Maggic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Maggic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Items/Weapons/Elements/TheCoreOfPyromania.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Items/Weapons/Elements/TheCoreOfPyromania.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maggic.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Maggic.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projectiles/Friendly/Element/PyroCore.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Projectiles/Friendly/Element/PyroCore.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BuffSpell.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Items/Spells/Buffs/BuffSpell.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+              <folding>
+                <marker date="1536087765637" expanded="false" signature="6:98" ph="..." />
+                <marker date="1536087765637" expanded="true" signature="135:1807" ph="{...}" />
+                <marker date="1536087765637" expanded="true" signature="180:1805" ph="{...}" />
+                <marker date="1536087765637" expanded="true" signature="275:652" ph="{...}" />
+                <marker date="1536087765637" expanded="true" signature="457:580" ph="{...}" />
+                <marker date="1536087765637" expanded="true" signature="696:911" ph="{...}" />
+                <marker date="1536087765637" expanded="true" signature="964:1233" ph="{...}" />
+                <marker date="1536087765637" expanded="true" signature="1289:1378" ph="{...}" />
+                <marker date="1536087765637" expanded="true" signature="1515:1799" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BannerPhoenix.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Items/Blocks/Banners/BannerPhoenix.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="49" column="54" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="54" />
+              <folding>
+                <marker date="1538817679347" expanded="false" signature="6:139" ph="..." />
+                <marker date="1538817679347" expanded="true" signature="220:891" ph="{...}" />
+                <marker date="1538817679347" expanded="true" signature="275:349" ph="{...}" />
+                <marker date="1538817679347" expanded="true" signature="393:885" ph="{...}" />
+                <marker date="1538817679347" expanded="true" signature="942:2450" ph="{...}" />
+                <marker date="1538817679347" expanded="true" signature="991:1724" ph="{...}" />
+                <marker date="1538817679347" expanded="true" signature="1806:1907" ph="{...}" />
+                <marker date="1538817679347" expanded="true" signature="1978:2210" ph="{...}" />
+                <marker date="1538817679347" expanded="true" signature="2012:2200" ph="{...}" />
+                <marker date="1538817679347" expanded="true" signature="2304:2444" ph="{...}" />
+                <marker date="1538817679347" expanded="true" signature="2342:2434" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheCoreOfPyromania.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Items/Weapons/Elements/TheCoreOfPyromania.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+              <folding>
+                <marker date="1539176950409" expanded="true" signature="6:91" ph="..." />
+                <marker date="1539176950409" expanded="true" signature="132:1173" ph="{...}" />
+                <marker date="1539176950409" expanded="true" signature="180:1171" ph="{...}" />
+                <marker date="1539176950409" expanded="true" signature="229:803" ph="{...}" />
+                <marker date="1539176950409" expanded="true" signature="975:1165" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PyroCore.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/PyroCore.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-113">
+              <caret line="85" column="49" selection-start-line="85" selection-start-column="49" selection-end-line="85" selection-end-column="49" />
+              <folding>
+                <marker date="1539176736120" expanded="false" signature="6:139" ph="..." />
+                <marker date="1539176736120" expanded="true" signature="186:4235" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="230:3242" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="279:519" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="594:2275" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="781:2265" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="2325:2942" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="2386:2932" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="2501:2918" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="2995:3041" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="3099:3145" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="3190:3236" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="3287:4233" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="3336:3661" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="3696:3760" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="3799:4227" ph="{...}" />
+                <marker date="1539176736120" expanded="true" signature="3920:4217" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlameFusionSphere.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/FlameFusionSphere.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2205">
+              <caret line="151" column="5" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
+              <folding>
+                <marker date="1539096860749" expanded="false" signature="6:105" ph="..." />
+                <marker date="1539096860749" expanded="true" signature="205:2780" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="254:536" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="636:787" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="822:1376" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="966:1035" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="1076:1366" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="1425:1804" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="1500:1794" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="1895:2006" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="2047:2627" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="2257:2617" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="2686:2774" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="2837:5102" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="2892:2957" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="3009:3291" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="3391:3542" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="3640:4297" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="4078:4178" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="4217:4287" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="4349:4728" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="4827:4937" ph="{...}" />
+                <marker date="1539096860749" expanded="true" signature="5005:5095" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IceFusionSphere.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/IceFusionSphere.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="157" column="5" selection-start-line="157" selection-start-column="5" selection-end-line="157" selection-end-column="5" />
+              <folding>
+                <marker date="1539096860655" expanded="false" signature="6:105" ph="..." />
+                <marker date="1539096860655" expanded="true" signature="203:2801" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="252:534" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="634:785" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="820:1362" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="964:1033" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="1074:1352" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="1411:1824" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="1512:1814" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="1915:2029" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="2070:2648" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="2280:2638" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="2707:2795" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="2856:5217" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="2911:2977" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="3021:3303" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="3403:3554" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="3650:4367" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="3746:4112" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="4145:4244" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="4283:4357" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="4419:4859" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="4950:5064" ph="{...}" />
+                <marker date="1539096860655" expanded="true" signature="5123:5211" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NatureFusionSphere.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/NatureFusionSphere.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1755">
+              <caret line="122" selection-start-line="122" selection-end-line="122" />
+              <folding>
+                <marker date="1539096860690" expanded="false" signature="6:138" ph="..." />
+                <marker date="1539096860690" expanded="true" signature="239:2838" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="288:570" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="670:821" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="856:1401" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="1000:1069" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="1110:1391" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="1450:1859" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="1525:1849" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="1950:2063" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="2104:2685" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="2314:2675" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="2744:2832" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="2896:5533" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="2951:3065" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="3109:3391" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="3491:3642" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="3738:4615" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="4148:4247" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="4286:4360" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="4409:4605" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="4513:4591" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="4667:5176" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="5267:5380" ph="{...}" />
+                <marker date="1539096860690" expanded="true" signature="5439:5527" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NatureSphere.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Items/Weapons/Elements/NatureSphere.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+              <folding>
+                <marker date="1535393825000" expanded="false" signature="6:243" ph="..." />
+                <marker date="1535393825000" expanded="true" signature="284:2459" ph="{...}" />
+                <marker date="1535393825000" expanded="true" signature="328:2457" ph="{...}" />
+                <marker date="1535393825000" expanded="true" signature="383:498" ph="{...}" />
+                <marker date="1535393825000" expanded="true" signature="542:1120" ph="{...}" />
+                <marker date="1535393825000" expanded="true" signature="1355:2081" ph="{...}" />
+                <marker date="1535393825000" expanded="true" signature="1413:2044" ph="{...}" />
+                <marker date="1535393825000" expanded="true" signature="1671:2030" ph="{...}" />
+                <marker date="1535393825000" expanded="true" signature="2132:2451" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrystalliteBar.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Items/Materials/CrystalliteBar.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding>
+                <marker date="1536087765574" expanded="false" signature="6:118" ph="..." />
+                <marker date="1536087765574" expanded="true" signature="196:1053" ph="{...}" />
+                <marker date="1536087765574" expanded="true" signature="245:704" ph="{...}" />
+                <marker date="1536087765574" expanded="true" signature="747:1047" ph="{...}" />
+                <marker date="1536087765574" expanded="true" signature="1101:2038" ph="{...}" />
+                <marker date="1536087765574" expanded="true" signature="1150:2032" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>count</find>
+      <find>jumpbonus</find>
+      <find>Ectcrystal</find>
+      <find>VolcanoAngleSpread</find>
+      <find>dustrange</find>
+      <find>delta</find>
+      <find>projp</find>
+      <find>SpectreCircleAngle</find>
+      <find>SpectreCircleRotSpeed</find>
+      <find>SpectreHealDistance</find>
+      <find>Next</find>
+      <find>mouse</find>
+      <find>Main.rand.Next(-rand, rand)</find>
+      <find>Main.myPlayer</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/CircularFireball.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/CircularIce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Blocks/EnchantmentTable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Armor/CrystalliteArmor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Help.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Hostile/PhoenixFeather.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Materials/CrystalliteBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Spells/Battle/SpellRose.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Spells/Buffs/AllBuffSpells.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NPCs/GiantIceCube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Spells/Buffs/BuffSpell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/NebulaRaindrop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/LeafBunch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/MushroomProj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/CthulhuTwister.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/NebulaDrop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Tools/CrystalliteTools.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Buffs/SpellSickness.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/SoulSpear.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Blocks/Banners/BannerPhoenix.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NPCs/SpectreMoth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/GlowBlow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/FireFirework.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NPCs/IceCube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/CrystalSoulSpear.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Hostile/Icy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Spells/SpellTeleportation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Others.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Accessories/ManapowerAmulet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NPCs/Phoenix.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Accessories/ExistenceAmulet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Maggic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Accessories/VitalityAmulet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Accessories/GaiaGift.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Weapons/Elements/NatureSphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Materials/SpectreDust.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Materials/NatureRune.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Blocks/Banners/BannerGiantIceCube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Materials/IceRune.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Materials/FireRune.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/NatureFusionSphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/IceFusionSphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Weapons/Staffs/CthulhusTwister.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/CircularLeaf.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/PyroCore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Weapons/Staffs/LeafStaff.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Blocks/Banners/BannerIceCube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/FlameFusionSphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Weapons/Elements/TheCoreOfPyromania.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Items/Blocks/Banners/BannerSpectreMoth.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Items/Armor/SpectreMothLeggings.cs" />
+        <option value="$PROJECT_DIR$/Items/Armor/SpectreMothHood.cs" />
+        <option value="$PROJECT_DIR$/Items/Armor/SpectreMothBreastplate.cs" />
+        <option value="$PROJECT_DIR$/NPCs/SpectreMoth.cs" />
+        <option value="$PROJECT_DIR$/NPCs/Phoenix.cs" />
+        <option value="$PROJECT_DIR$/Help.cs" />
+        <option value="$PROJECT_DIR$/Others.cs" />
+        <option value="$PROJECT_DIR$/Items/Blocks/EnchTable_TILE.cs" />
+        <option value="$PROJECT_DIR$/Items/Blocks/Banners/BannerGiantIceCube_TILE.cs" />
+        <option value="$PROJECT_DIR$/Items/Blocks/Banners/BannerIceCube_TILE.cs" />
+        <option value="$PROJECT_DIR$/Items/Blocks/Banners/BannerSpectreMoth_TILE.cs" />
+        <option value="$PROJECT_DIR$/Items/Blocks/Banners/BannerSpectreMoth.cs" />
+        <option value="$PROJECT_DIR$/Items/Weapons/Staffs/LeafStaff.cs" />
+        <option value="$PROJECT_DIR$/Items/Blocks/Banners/BannerGiantIceCube.cs" />
+        <option value="$PROJECT_DIR$/Items/Materials/CrystalliteBar.cs" />
+        <option value="$PROJECT_DIR$/Items/Blocks/Banners/BannerIceCube.cs" />
+        <option value="$PROJECT_DIR$/Items/Blocks/EnchantmentTable.cs" />
+        <option value="$PROJECT_DIR$/Items/Weapons/Element/IceSphere.cs" />
+        <option value="$PROJECT_DIR$/Items/Weapons/Element/IceFusion.cs" />
+        <option value="$PROJECT_DIR$/Items/Weapons/Element/FlameFusion.cs" />
+        <option value="$PROJECT_DIR$/Items/Weapons/Element/FireSphere.cs" />
+        <option value="$PROJECT_DIR$/Items/Weapons/Element/NatureSphere.cs" />
+        <option value="$PROJECT_DIR$/Items/Weapons/Element/NatureFusion.cs" />
+        <option value="$PROJECT_DIR$/Items/SpellScroll.cs" />
+        <option value="$PROJECT_DIR$/Items/SpellTeleportation.cs" />
+        <option value="$PROJECT_DIR$/Items/Weapons/Staffs/CthulhusTwister.cs" />
+        <option value="$PROJECT_DIR$/Items/Tools/CrystalliteTools.cs" />
+        <option value="$PROJECT_DIR$/Items/Armor/CrystalliteArmor.cs" />
+        <option value="$PROJECT_DIR$/Maggic.cs" />
+        <option value="$PROJECT_DIR$/Items/QuickSpells/QuickSpellFireFirework.cs" />
+        <option value="$PROJECT_DIR$/Items/QuickSpells/QuickSpellGlow.cs" />
+        <option value="$PROJECT_DIR$/Items/QuickSpells/QuickSpellSkyArrows.cs" />
+        <option value="$PROJECT_DIR$/Items/QuickSpells/QuickSpellDemonScythe.cs" />
+        <option value="$PROJECT_DIR$/Items/Spells/QuickSpells/QuickSpells.cs" />
+        <option value="$PROJECT_DIR$/description.txt" />
+        <option value="$PROJECT_DIR$/Items/Spells/Battle/SpellRose.cs" />
+        <option value="$PROJECT_DIR$/Items/Spells/Buffs/BuffSpell.cs" />
+        <option value="$PROJECT_DIR$/s.cs" />
+        <option value="$PROJECT_DIR$/MaggicSystem.cs" />
+        <option value="$PROJECT_DIR$/Items/Weapons/MaggicStaffs/MaggicSystem.cs" />
+        <option value="$PROJECT_DIR$/Projectiles/Friendly/Element/Fire.cs" />
+        <option value="$PROJECT_DIR$/Items/Blocks/Banners/BannerPhoenix.cs" />
+        <option value="$PROJECT_DIR$/Items/EnchantmentBooks/EnchantmentBookLegendary.cs" />
+        <option value="$PROJECT_DIR$/Projectiles/Friendly/Element/FlameFusionSphere2.cs" />
+        <option value="$PROJECT_DIR$/Projectiles/Friendly/Element/FlameFusionSphere.cs" />
+        <option value="$PROJECT_DIR$/Projectiles/Friendly/Element/IceFusionSphere2.cs" />
+        <option value="$PROJECT_DIR$/Projectiles/Friendly/Element/IceFusionSphere.cs" />
+        <option value="$PROJECT_DIR$/Projectiles/Friendly/Element/NatureFusionSphere2.cs" />
+        <option value="$PROJECT_DIR$/Projectiles/Friendly/Element/NatureFusionSphere.cs" />
+        <option value="$PROJECT_DIR$/Projectiles/Friendly/Element/PyroCore.cs" />
+        <option value="$PROJECT_DIR$/Items/Weapons/Elements/TheCoreOfPyromania.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="817" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Maggic (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Maggic (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Maggic" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Maggic (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Maggic" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Items" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Maggic (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Maggic" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Items" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Weapons" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Maggic (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Maggic" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Items" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Weapons" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Elements" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Maggic (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Maggic" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Projectiles" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Maggic (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Maggic" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Projectiles" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Friendly" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Maggic (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Maggic" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Projectiles" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Friendly" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Element" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="do_not_show_solution_notification" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="two.files.diff.last.used.file" value="C:/Program Files (x86)/Steam/steamapps/common/Terraria/Terraria1.exe" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23046875" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32772166" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32985657" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Соединение рефлексии с линком" />
+    <MESSAGE value="Maggic System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maggic System" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/PyroCore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="35" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="35" />
+          <folding>
+            <marker date="1539176736120" expanded="false" signature="6:139" ph="..." />
+            <marker date="1539176736120" expanded="true" signature="186:4235" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="230:3242" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="279:519" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="594:2275" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="781:2265" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="2325:2942" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="2386:2932" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="2501:2918" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="2995:3041" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3099:3145" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3190:3236" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3287:4233" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3336:3661" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3696:3760" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3799:4227" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3920:4217" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/SpellCursedFire.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/Staffs/LeafStaff.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Materials/SpectreDust.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Materials/IceRune.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Blocks/Banners/BannerSpectreMoth_TILE.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Blocks/Banners/BannerGiantIceCube.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Blocks/Banners/BannerIceCube.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Blocks/Banners/BannerSpectreMoth.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/SpellCrystalSoulspear.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Blocks/EnchantmentTable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/Element/IceSphere.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/Element/IceFusion.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/Element/FireSphere.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/Element/FlameFusion.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/Element/NatureSphere.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/Element/NatureFusion.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/SpellTeleportation.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/SpellScroll.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Materials/NatureRune.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Tools/CrystalliteTools.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Armor/CrystalliteArmor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/QuickSpells/QuickSpellFireFirework.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/QuickSpells/QuickSpellGlow.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/QuickSpells/QuickSpellSkyArrows.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/QuickSpells/QuickSpells.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Spells/QuickSpells/QuickSpells.cs" />
+    <entry file="file://$PROJECT_DIR$/Others.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="218" column="115" selection-start-line="218" selection-start-column="115" selection-end-line="218" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/description.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Spells/Battle/SpellRose.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/Staffs/CthulhusTwister.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Maggic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Help.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="171" column="5" selection-start-line="171" selection-start-column="5" selection-end-line="171" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/CircularFireball.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Spells/Buffs/AllBuffSpells.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Spells/Buffs/BuffSpell.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <marker date="1536087765637" expanded="false" signature="6:98" ph="..." />
+            <marker date="1536087765637" expanded="true" signature="135:1807" ph="{...}" />
+            <marker date="1536087765637" expanded="true" signature="180:1805" ph="{...}" />
+            <marker date="1536087765637" expanded="true" signature="275:652" ph="{...}" />
+            <marker date="1536087765637" expanded="true" signature="457:580" ph="{...}" />
+            <marker date="1536087765637" expanded="true" signature="696:911" ph="{...}" />
+            <marker date="1536087765637" expanded="true" signature="964:1233" ph="{...}" />
+            <marker date="1536087765637" expanded="true" signature="1289:1378" ph="{...}" />
+            <marker date="1536087765637" expanded="true" signature="1515:1799" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaggicSystem.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/MaggicStaffs/MaggicSystem.cs" />
+    <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/Fire.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Materials/CrystalliteBar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <marker date="1536087765574" expanded="false" signature="6:118" ph="..." />
+            <marker date="1536087765574" expanded="true" signature="196:1053" ph="{...}" />
+            <marker date="1536087765574" expanded="true" signature="245:704" ph="{...}" />
+            <marker date="1536087765574" expanded="true" signature="747:1047" ph="{...}" />
+            <marker date="1536087765574" expanded="true" signature="1101:2038" ph="{...}" />
+            <marker date="1536087765574" expanded="true" signature="1150:2032" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/EnchantmentBooks/EnchantmentBookLegendary.cs" />
+    <entry file="file://$PROJECT_DIR$/Items/Blocks/Banners/BannerPhoenix.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="49" column="54" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="54" />
+          <folding>
+            <marker date="1538817679347" expanded="false" signature="6:139" ph="..." />
+            <marker date="1538817679347" expanded="true" signature="220:891" ph="{...}" />
+            <marker date="1538817679347" expanded="true" signature="275:349" ph="{...}" />
+            <marker date="1538817679347" expanded="true" signature="393:885" ph="{...}" />
+            <marker date="1538817679347" expanded="true" signature="942:2450" ph="{...}" />
+            <marker date="1538817679347" expanded="true" signature="991:1724" ph="{...}" />
+            <marker date="1538817679347" expanded="true" signature="1806:1907" ph="{...}" />
+            <marker date="1538817679347" expanded="true" signature="1978:2210" ph="{...}" />
+            <marker date="1538817679347" expanded="true" signature="2012:2200" ph="{...}" />
+            <marker date="1538817679347" expanded="true" signature="2304:2444" ph="{...}" />
+            <marker date="1538817679347" expanded="true" signature="2342:2434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/Elements/NatureSphere.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <marker date="1535393825000" expanded="false" signature="6:243" ph="..." />
+            <marker date="1535393825000" expanded="true" signature="284:2459" ph="{...}" />
+            <marker date="1535393825000" expanded="true" signature="328:2457" ph="{...}" />
+            <marker date="1535393825000" expanded="true" signature="383:498" ph="{...}" />
+            <marker date="1535393825000" expanded="true" signature="542:1120" ph="{...}" />
+            <marker date="1535393825000" expanded="true" signature="1355:2081" ph="{...}" />
+            <marker date="1535393825000" expanded="true" signature="1413:2044" ph="{...}" />
+            <marker date="1535393825000" expanded="true" signature="1671:2030" ph="{...}" />
+            <marker date="1535393825000" expanded="true" signature="2132:2451" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/FlameFusionSphere2.cs" />
+    <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/FlameFusionSphere.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="151" column="5" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
+          <folding>
+            <marker date="1539096860749" expanded="false" signature="6:105" ph="..." />
+            <marker date="1539096860749" expanded="true" signature="205:2780" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="254:536" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="636:787" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="822:1376" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="966:1035" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="1076:1366" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="1425:1804" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="1500:1794" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="1895:2006" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="2047:2627" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="2257:2617" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="2686:2774" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="2837:5102" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="2892:2957" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="3009:3291" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="3391:3542" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="3640:4297" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="4078:4178" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="4217:4287" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="4349:4728" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="4827:4937" ph="{...}" />
+            <marker date="1539096860749" expanded="true" signature="5005:5095" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/IceFusionSphere2.cs" />
+    <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/IceFusionSphere.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="157" column="5" selection-start-line="157" selection-start-column="5" selection-end-line="157" selection-end-column="5" />
+          <folding>
+            <marker date="1539096860655" expanded="false" signature="6:105" ph="..." />
+            <marker date="1539096860655" expanded="true" signature="203:2801" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="252:534" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="634:785" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="820:1362" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="964:1033" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="1074:1352" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="1411:1824" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="1512:1814" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="1915:2029" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="2070:2648" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="2280:2638" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="2707:2795" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="2856:5217" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="2911:2977" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="3021:3303" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="3403:3554" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="3650:4367" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="3746:4112" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="4145:4244" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="4283:4357" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="4419:4859" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="4950:5064" ph="{...}" />
+            <marker date="1539096860655" expanded="true" signature="5123:5211" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/NatureFusionSphere2.cs" />
+    <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/NatureFusionSphere.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+          <folding>
+            <marker date="1539096860690" expanded="false" signature="6:138" ph="..." />
+            <marker date="1539096860690" expanded="true" signature="239:2838" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="288:570" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="670:821" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="856:1401" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="1000:1069" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="1110:1391" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="1450:1859" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="1525:1849" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="1950:2063" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="2104:2685" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="2314:2675" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="2744:2832" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="2896:5533" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="2951:3065" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="3109:3391" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="3491:3642" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="3738:4615" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="4148:4247" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="4286:4360" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="4409:4605" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="4513:4591" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="4667:5176" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="5267:5380" ph="{...}" />
+            <marker date="1539096860690" expanded="true" signature="5439:5527" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projectiles/Friendly/Element/PyroCore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="85" column="49" selection-start-line="85" selection-start-column="49" selection-end-line="85" selection-end-column="49" />
+          <folding>
+            <marker date="1539176736120" expanded="false" signature="6:139" ph="..." />
+            <marker date="1539176736120" expanded="true" signature="186:4235" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="230:3242" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="279:519" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="594:2275" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="781:2265" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="2325:2942" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="2386:2932" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="2501:2918" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="2995:3041" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3099:3145" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3190:3236" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3287:4233" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3336:3661" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3696:3760" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3799:4227" ph="{...}" />
+            <marker date="1539176736120" expanded="true" signature="3920:4217" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Items/Weapons/Elements/TheCoreOfPyromania.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <marker date="1539176950409" expanded="true" signature="6:91" ph="..." />
+            <marker date="1539176950409" expanded="true" signature="132:1173" ph="{...}" />
+            <marker date="1539176950409" expanded="true" signature="180:1171" ph="{...}" />
+            <marker date="1539176950409" expanded="true" signature="229:803" ph="{...}" />
+            <marker date="1539176950409" expanded="true" signature="975:1165" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8298EAB6-0586-4BDA-9483-83624B66B13A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Maggic</RootNamespace>
+    <AssemblyName>Maggic</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Buffs\SpellSickness.cs" />
+    <Compile Include="Help.cs" />
+    <Compile Include="Items\Accessories\ExistenceAmulet.cs" />
+    <Compile Include="Items\Accessories\GaiaGift.cs" />
+    <Compile Include="Items\Accessories\ManapowerAmulet.cs" />
+    <Compile Include="Items\Accessories\VitalityAmulet.cs" />
+    <Compile Include="Items\Armor\CrystalliteArmor.cs" />
+    <Compile Include="Items\Armor\Vanity\DarkRobe.cs" />
+    <Compile Include="Items\Blocks\Banners\BannerJungleZombie.cs" />
+    <Compile Include="Items\Blocks\Banners\BannerGiantIceCube.cs" />
+    <Compile Include="Items\Blocks\Banners\BannerIceCube.cs" />
+    <Compile Include="Items\Blocks\Banners\BannerPhoenix.cs" />
+    <Compile Include="Items\Blocks\Banners\BannerShamanZombie.cs" />
+    <Compile Include="Items\Blocks\Banners\BannerSpectreMoth.cs" />
+    <Compile Include="Items\Blocks\EnchantmentTable.cs" />
+    <Compile Include="Items\Materials\CrystalliteBar.cs" />
+    <Compile Include="Items\Materials\EnchantmentPiece.cs" />
+    <Compile Include="Items\Materials\FireRune.cs" />
+    <Compile Include="Items\Materials\IceRune.cs" />
+    <Compile Include="Items\Materials\NatureRune.cs" />
+    <Compile Include="Items\Spells\Battle\SpellCrystalSoulspear.cs" />
+    <Compile Include="Items\Spells\Battle\SpellCursedFire.cs" />
+    <Compile Include="Items\Spells\Battle\SpellFire.cs" />
+    <Compile Include="Items\Spells\Battle\SpellFrozenFire.cs" />
+    <Compile Include="Items\Spells\Battle\SpellLeaf.cs" />
+    <Compile Include="Items\Spells\Battle\SpellMushrooms.cs" />
+    <Compile Include="Items\Spells\Battle\SpellNebula.cs" />
+    <Compile Include="Items\Spells\Battle\SpellRose.cs" />
+    <Compile Include="Items\Spells\Battle\SpellSoulspear.cs" />
+    <Compile Include="Items\Spells\Buffs\AllBuffSpells.cs" />
+    <Compile Include="Items\Spells\Buffs\BuffSpell.cs" />
+    <Compile Include="Items\Spells\Quick\QuickSpells.cs" />
+    <Compile Include="Items\Spells\SpellScroll.cs" />
+    <Compile Include="Items\Spells\SpellTeleportation.cs" />
+    <Compile Include="Items\Tools\CrystalliteTools.cs" />
+    <Compile Include="Items\Weapons\Book\Nightfall.cs" />
+    <Compile Include="Items\Weapons\CrystalMagicDagger.cs" />
+    <Compile Include="Items\Weapons\Elements\FireSphere.cs" />
+    <Compile Include="Items\Weapons\Elements\FlameFusion.cs" />
+    <Compile Include="Items\Weapons\Elements\IceFusion.cs" />
+    <Compile Include="Items\Weapons\Elements\IceSphere.cs" />
+    <Compile Include="Items\Weapons\Elements\NatureFusion.cs" />
+    <Compile Include="Items\Weapons\Elements\NatureSphere.cs" />
+    <Compile Include="Items\Weapons\Staffs\FireImpStaff.cs" />
+    <Compile Include="Items\Weapons\Staffs\GemStaffs\GemStaffs.cs" />
+    <Compile Include="Items\Weapons\Staffs\ImaginationStaff.cs" />
+    <Compile Include="Items\Weapons\Staffs\LeafStaff.cs" />
+    <Compile Include="Maggic.cs" />
+    <Compile Include="NPCs\Element\JungleZombie.cs" />
+    <Compile Include="NPCs\Element\GiantIceCube.cs" />
+    <Compile Include="NPCs\Element\IceCube.cs" />
+    <Compile Include="NPCs\Element\Phoenix.cs" />
+    <Compile Include="NPCs\Element\ShamanZombie.cs" />
+    <Compile Include="NPCs\Enchanted\EnchantedNPCs.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Others.cs" />
+    <Compile Include="Projectiles\Friendly\CrystalMagicDaggerPro.cs" />
+    <Compile Include="Projectiles\Friendly\CrystalSoulSpear.cs" />
+    <Compile Include="Projectiles\Friendly\Element\CircularFireball.cs" />
+    <Compile Include="Projectiles\Friendly\Element\CircularIce.cs" />
+    <Compile Include="Projectiles\Friendly\Element\CircularLeaf.cs" />
+    <Compile Include="Projectiles\Friendly\Element\IceFusionSphere.cs" />
+    <Compile Include="Projectiles\Friendly\Element\FlameFusionSphere.cs" />
+    <Compile Include="Projectiles\Friendly\Element\NatureFusionSphere.cs" />
+    <Compile Include="Projectiles\Friendly\FireFirework.cs" />
+    <Compile Include="Projectiles\Friendly\GlacialBoltPro.cs" />
+    <Compile Include="Projectiles\Friendly\GlowBlow.cs" />
+    <Compile Include="Projectiles\Friendly\ImaginationCore.cs" />
+    <Compile Include="Projectiles\Friendly\LeafBunch.cs" />
+    <Compile Include="Projectiles\Friendly\MushroomProj.cs" />
+    <Compile Include="Projectiles\Friendly\NebulaRaindrop.cs" />
+    <Compile Include="Projectiles\Friendly\Nightfall.cs" />
+    <Compile Include="Projectiles\Friendly\SoulSpear.cs" />
+    <Compile Include="Projectiles\Hostile\Icy.cs" />
+    <Compile Include="Projectiles\Hostile\PhoenixFeather.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_32\Microsoft.Xna.Framework\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_32\Microsoft.Xna.Framework.Game\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Game.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_32\Microsoft.Xna.Framework.Graphics\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Graphics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Xact, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_32\Microsoft.Xna.Framework.Xact\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Xact.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="Terraria, Version=1.3.5.1, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Terraria\Terraria1.exe</HintPath>
+    </Reference>
+    <Reference Include="Terraria2">
+      <HintPath>E:\Steam\steamapps\common\Terraria tMod\Terraria2.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Buffs\SpellSickness.png" />
+    <Content Include="build.txt" />
+    <Content Include="description.txt" />
+    <Content Include="Gores\EnchantedEyeGore_0.png" />
+    <Content Include="Gores\EnchantedEyeGore_1.png" />
+    <Content Include="Gores\EnchantedSkeletonGore_0.png" />
+    <Content Include="Gores\EnchantedSkeletonGore_1.png" />
+    <Content Include="Gores\EnchantedSkeletonGore_2.png" />
+    <Content Include="Gores\EnchantedZombieGore_0.png" />
+    <Content Include="Gores\EnchantedZombieGore_1.png" />
+    <Content Include="Gores\EnchantedZombieGore_2.png" />
+    <Content Include="Gores\JungleZombieGore_0.png" />
+    <Content Include="Gores\JungleZombieGore_1.png" />
+    <Content Include="Gores\JungleZombieGore_2.png" />
+    <Content Include="Gores\PhoenixGore_0.png" />
+    <Content Include="Gores\PhoenixGore_1.png" />
+    <Content Include="Gores\PhoenixGore_2.png" />
+    <Content Include="Gores\ShamanZombieGore_0.png" />
+    <Content Include="Gores\ShamanZombieGore_1.png" />
+    <Content Include="Gores\ShamanZombieGore_2.png" />
+    <Content Include="Gores\ShamanZombieGore_3.png" />
+    <Content Include="icon.png" />
+    <Content Include="Items\Accessories\ExistenceAmulet.png" />
+    <Content Include="Items\Accessories\ExistenceAmulet_Neck.png" />
+    <Content Include="Items\Accessories\GaiaGift.png" />
+    <Content Include="Items\Accessories\GaiaGift_Face.png" />
+    <Content Include="Items\Accessories\ManapowerAmulet.png" />
+    <Content Include="Items\Accessories\ManapowerAmulet_Neck.png" />
+    <Content Include="Items\Accessories\VitalityAmulet.png" />
+    <Content Include="Items\Accessories\VitalityAmulet_Neck.png" />
+    <Content Include="Items\Armor\CrystalliteBreastplate.png" />
+    <Content Include="Items\Armor\CrystalliteBreastplate_Arms.png" />
+    <Content Include="Items\Armor\CrystalliteBreastplate_Body.png" />
+    <Content Include="Items\Armor\CrystalliteCircle.png" />
+    <Content Include="Items\Armor\CrystalliteHelmet.png" />
+    <Content Include="Items\Armor\CrystalliteHelmet_Head.png" />
+    <Content Include="Items\Armor\CrystalliteLeggings.png" />
+    <Content Include="Items\Armor\CrystalliteLeggings_Legs.png" />
+    <Content Include="Items\Armor\Vanity\BloodyThread.png" />
+    <Content Include="Items\Armor\Vanity\CorruptThread.png" />
+    <Content Include="Items\Armor\Vanity\DarkRobe.png" />
+    <Content Include="Items\Armor\Vanity\DarkRobeCrimson.png" />
+    <Content Include="Items\Armor\Vanity\DarkRobeCrimson_Arms.png" />
+    <Content Include="Items\Armor\Vanity\DarkRobeCrimson_Body.png" />
+    <Content Include="Items\Armor\Vanity\DarkRobeCrimson_FemaleBody.png" />
+    <Content Include="Items\Armor\Vanity\DarkRobe_Arms.png" />
+    <Content Include="Items\Armor\Vanity\DarkRobe_Body.png" />
+    <Content Include="Items\Armor\Vanity\DarkRobe_FemaleBody.png" />
+    <Content Include="Items\Blocks\Banners\BannerJungleZombie.png" />
+    <Content Include="Items\Blocks\Banners\BannerGiantIceCube.png" />
+    <Content Include="Items\Blocks\Banners\BannerJungleZombie_Tile.png" />
+    <Content Include="Items\Blocks\Banners\BannerGiantIceCube_Tile.png" />
+    <Content Include="Items\Blocks\Banners\BannerIceCube.png" />
+    <Content Include="Items\Blocks\Banners\BannerIceCube_Tile.png" />
+    <Content Include="Items\Blocks\Banners\BannerPhoenix.png" />
+    <Content Include="Items\Blocks\Banners\BannerPhoenix_Tile.png" />
+    <Content Include="Items\Blocks\Banners\BannerShamanZombie.png" />
+    <Content Include="Items\Blocks\Banners\BannerShamanZombie_Tile.png" />
+    <Content Include="Items\Blocks\Banners\BannerSpectreMoth.png" />
+    <Content Include="Items\Blocks\Banners\BannerSpectreMoth_Tile.png" />
+    <Content Include="Items\Blocks\EnchantedTable_Tile.png" />
+    <Content Include="Items\Blocks\EnchantmentTable.png" />
+    <Content Include="Items\Materials\CrystalliteBar.png" />
+    <Content Include="Items\Materials\CrystalliteBar_Tile.png" />
+    <Content Include="Items\Materials\EnchantmentPiece.png" />
+    <Content Include="Items\Materials\FireRune.png" />
+    <Content Include="Items\Materials\IceRune.png" />
+    <Content Include="Items\Materials\NatureRune.png" />
+    <Content Include="Items\Materials\Rune.png" />
+    <Content Include="Items\Spells\BattleSpellScroll.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffAmmo.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffArchery.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffDanger.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffEndurance.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffFeaterfall.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffGills.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffGravity.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffHunter.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffInferno.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffIronskin.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffLifeforce.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffRage.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffRegeneration.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffSwiftness.png" />
+    <Content Include="Items\Spells\Buffs\SpellBuffThorns.png" />
+    <Content Include="Items\Spells\Buffs\SpellEmpty.png" />
+    <Content Include="Items\Spells\QuickSpellScroll.png" />
+    <Content Include="Items\Spells\Quick\QuickSpellDemonScythe.png" />
+    <Content Include="Items\Spells\Quick\QuickSpellFireFirework.png" />
+    <Content Include="Items\Spells\Quick\QuickSpellGlow.png" />
+    <Content Include="Items\Spells\Quick\QuickSpellSkyArrows.png" />
+    <Content Include="Items\Spells\SpellScroll.png" />
+    <Content Include="Items\Spells\SpellTeleportation.png" />
+    <Content Include="Items\Tools\CrystalliteAxe.png" />
+    <Content Include="Items\Tools\CrystallitePickaxe.png" />
+    <Content Include="Items\Weapons\Book\Nightfall.png" />
+    <Content Include="Items\Weapons\CrystalMagicDagger.png" />
+    <Content Include="Items\Weapons\Elements\FireSphere.png" />
+    <Content Include="Items\Weapons\Elements\FlameFusion.png" />
+    <Content Include="Items\Weapons\Elements\IceFusion.png" />
+    <Content Include="Items\Weapons\Elements\IceSphere.png" />
+    <Content Include="Items\Weapons\Elements\NatureFusion.png" />
+    <Content Include="Items\Weapons\Elements\NatureSphere.png" />
+    <Content Include="Items\Spells\Battle\SpellCrystalSoulspear.png" />
+    <Content Include="Items\Spells\Battle\SpellCursedFireI.png" />
+    <Content Include="Items\Spells\Battle\SpellCursedFireII.png" />
+    <Content Include="Items\Spells\Battle\SpellCursedFireIII.png" />
+    <Content Include="Items\Spells\Battle\SpellFireI.png" />
+    <Content Include="Items\Spells\Battle\SpellFireII.png" />
+    <Content Include="Items\Spells\Battle\SpellFireIII.png" />
+    <Content Include="Items\Spells\Battle\SpellFrozenFireI.png" />
+    <Content Include="Items\Spells\Battle\SpellFrozenFireII.png" />
+    <Content Include="Items\Spells\Battle\SpellFrozenFireIII.png" />
+    <Content Include="Items\Spells\Battle\SpellLeaf.png" />
+    <Content Include="Items\Spells\Battle\SpellMushrooms.png" />
+    <Content Include="Items\Spells\Battle\SpellNebula.png" />
+    <Content Include="Items\Spells\Battle\SpellRoseI.png" />
+    <Content Include="Items\Spells\Battle\SpellRoseII.png" />
+    <Content Include="Items\Spells\Battle\SpellRoseIII.png" />
+    <Content Include="Items\Spells\Battle\SpellSoulspear.png" />
+    <Content Include="Items\Weapons\Staffs\FireImpStaff.png" />
+    <Content Include="Items\Weapons\Staffs\FireWall.png" />
+    <Content Include="Items\Weapons\Staffs\GemStaffs\AmberFork.png" />
+    <Content Include="Items\Weapons\Staffs\GemStaffs\AmethystFork.png" />
+    <Content Include="Items\Weapons\Staffs\GemStaffs\DiamondFork.png" />
+    <Content Include="Items\Weapons\Staffs\GemStaffs\EmeraldFork.png" />
+    <Content Include="Items\Weapons\Staffs\GemStaffs\RubyFork.png" />
+    <Content Include="Items\Weapons\Staffs\GemStaffs\SapphireFork.png" />
+    <Content Include="Items\Weapons\Staffs\GemStaffs\TopazFork.png" />
+    <Content Include="Items\Weapons\Staffs\ImaginationStaff.png" />
+    <Content Include="Items\Weapons\Staffs\LeafStaff.png" />
+    <Content Include="NPCs\Element\GiantIceCube.png" />
+    <Content Include="NPCs\Element\IceCube.png" />
+    <Content Include="NPCs\Element\JungleZombie.png" />
+    <Content Include="NPCs\Element\Phoenix.png" />
+    <Content Include="NPCs\Element\ShamanZombie.png" />
+    <Content Include="NPCs\Enchanted\EnchantedEye.png" />
+    <Content Include="NPCs\Enchanted\EnchantedSkeleton.png" />
+    <Content Include="NPCs\Enchanted\EnchantedZombie.png" />
+    <Content Include="Projectiles\Friendly\CrystalMagicDaggerPro.png" />
+    <Content Include="Projectiles\Friendly\CrystalSoulSpear.png" />
+    <Content Include="Projectiles\Friendly\Element\CircularFireball.png" />
+    <Content Include="Projectiles\Friendly\Element\CircularIce.png" />
+    <Content Include="Projectiles\Friendly\Element\CircularLeaf.png" />
+    <Content Include="Projectiles\Friendly\Element\FlameFusionSphere.png" />
+    <Content Include="Projectiles\Friendly\Element\FlameFusionSphere2.png" />
+    <Content Include="Projectiles\Friendly\Element\IceFusionSphere.png" />
+    <Content Include="Projectiles\Friendly\Element\IceFusionSphere2.png" />
+    <Content Include="Projectiles\Friendly\Element\NatureFusionSphere.png" />
+    <Content Include="Projectiles\Friendly\Element\NatureFusionSphere2.png" />
+    <Content Include="Projectiles\Friendly\FireFirework.png" />
+    <Content Include="Projectiles\Friendly\GlacialBoltPro.png" />
+    <Content Include="Projectiles\Friendly\GlowBlow.png" />
+    <Content Include="Projectiles\Friendly\ImaginationCore.png" />
+    <Content Include="Projectiles\Friendly\LeafBunch.png" />
+    <Content Include="Projectiles\Friendly\MushroomProj.png" />
+    <Content Include="Projectiles\Friendly\NebulaRaindrop.png" />
+    <Content Include="Projectiles\Friendly\Nightfall.png" />
+    <Content Include="Projectiles\Friendly\NightfallEX.png" />
+    <Content Include="Projectiles\Friendly\SoulSpear.png" />
+    <Content Include="Projectiles\Hostile\Icy.png" />
+    <Content Include="Projectiles\Hostile\PhoenixFeather.png" />
+    <Content Include="UnknownSprite.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>"C:\Program Files (x86)\Steam\steamapps\common\Terraria\Terraria.exe" -build "$(ProjectDir)\" -eac "$(TargetPath)"</PostBuildEvent>
+  </PropertyGroup>
+</Project>

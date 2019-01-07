@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Home\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Maggic.-713222169.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Home\Favorites\Documents\My Games\Terraria\ModLoader\Mod Sources\Maggic" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Buffs" t="Include">
+        <e p="SpellSickness.cs" t="Include" />
+        <e p="SpellSickness.png" t="Include" />
+      </e>
+      <e p="build.txt" t="Include" />
+      <e p="description.txt" t="Include" />
+      <e p="Gores" t="Include">
+        <e p="PhoenixGore_0.png" t="Include" />
+        <e p="PhoenixGore_1.png" t="Include" />
+        <e p="PhoenixGore_2.png" t="Include" />
+        <e p="SpectreMothGore_0.png" t="Include" />
+        <e p="SpectreMothGore_1.png" t="Include" />
+        <e p="SpectreMothGore_2.png" t="Include" />
+        <e p="SpectreMothGore_3.png" t="Include" />
+      </e>
+      <e p="Help.cs" t="Include" />
+      <e p="icon.png" t="Include" />
+      <e p="Items" t="Include">
+        <e p="Accessories" t="Include">
+          <e p="ExistenceAmulet.cs" t="Include" />
+          <e p="ExistenceAmulet.png" t="Include" />
+          <e p="GaiaGift.cs" t="Include" />
+          <e p="GaiaGift.png" t="Include" />
+          <e p="ManapowerAmulet.cs" t="Include" />
+          <e p="ManapowerAmulet.png" t="Include" />
+          <e p="VitalityAmulet.cs" t="Include" />
+          <e p="VitalityAmulet.png" t="Include" />
+        </e>
+        <e p="Armor" t="Include">
+          <e p="CrystalliteArmor.cs" t="Include" />
+          <e p="CrystalliteBreastplate.png" t="Include" />
+          <e p="CrystalliteBreastplate_Arms.png" t="Include" />
+          <e p="CrystalliteBreastplate_Body.png" t="Include" />
+          <e p="CrystalliteCircle.png" t="Include" />
+          <e p="CrystalliteHelmet.png" t="Include" />
+          <e p="CrystalliteHelmet_Head.png" t="Include" />
+          <e p="CrystalliteLeggings.png" t="Include" />
+          <e p="CrystalliteLeggings_Legs.png" t="Include" />
+        </e>
+        <e p="Blocks" t="Include">
+          <e p="Banners" t="Include">
+            <e p="BannerGiantIceCube.cs" t="Include" />
+            <e p="BannerGiantIceCube.png" t="Include" />
+            <e p="BannerGiantIceCube_Tile.png" t="Include" />
+            <e p="BannerIceCube.cs" t="Include" />
+            <e p="BannerIceCube.png" t="Include" />
+            <e p="BannerIceCube_Tile.png" t="Include" />
+            <e p="BannerPhoenix.cs" t="Include" />
+            <e p="BannerSpectreMoth.cs" t="Include" />
+            <e p="BannerSpectreMoth.png" t="Include" />
+            <e p="BannerSpectreMoth_Tile.png" t="Include" />
+          </e>
+          <e p="EnchantedTable_Tile.png" t="Include" />
+          <e p="EnchantmentTable.cs" t="Include" />
+          <e p="EnchantmentTable.png" t="Include" />
+        </e>
+        <e p="Materials" t="Include">
+          <e p="CrystalliteBar.cs" t="Include" />
+          <e p="CrystalliteBar.png" t="Include" />
+          <e p="CrystalliteBar_Tile.png" t="Include" />
+          <e p="FireRune.cs" t="Include" />
+          <e p="FireRune.png" t="Include" />
+          <e p="IceRune.cs" t="Include" />
+          <e p="IceRune.png" t="Include" />
+          <e p="NatureRune.cs" t="Include" />
+          <e p="NatureRune.png" t="Include" />
+          <e p="Rune.png" t="Include" />
+          <e p="SpectreDust.cs" t="Include" />
+          <e p="SpectreDust.png" t="Include" />
+        </e>
+        <e p="Spells" t="Include">
+          <e p="Battle" t="Include">
+            <e p="SpellCrystalSoulspear.cs" t="Include" />
+            <e p="SpellCrystalSoulspear.png" t="Include" />
+            <e p="SpellCursedFire.cs" t="Include" />
+            <e p="SpellCursedFireI.png" t="Include" />
+            <e p="SpellCursedFireII.png" t="Include" />
+            <e p="SpellCursedFireIII.png" t="Include" />
+            <e p="SpellFire.cs" t="Include" />
+            <e p="SpellFireI.png" t="Include" />
+            <e p="SpellFireII.png" t="Include" />
+            <e p="SpellFireIII.png" t="Include" />
+            <e p="SpellFrozenFire.cs" t="Include" />
+            <e p="SpellFrozenFireI.png" t="Include" />
+            <e p="SpellFrozenFireII.png" t="Include" />
+            <e p="SpellFrozenFireIII.png" t="Include" />
+            <e p="SpellLeaf.cs" t="Include" />
+            <e p="SpellLeaf.png" t="Include" />
+            <e p="SpellMushrooms.cs" t="Include" />
+            <e p="SpellMushrooms.png" t="Include" />
+            <e p="SpellNebula.cs" t="Include" />
+            <e p="SpellNebula.png" t="Include" />
+            <e p="SpellRose.cs" t="Include" />
+            <e p="SpellRoseI.png" t="Include" />
+            <e p="SpellRoseII.png" t="Include" />
+            <e p="SpellRoseIII.png" t="Include" />
+            <e p="SpellSoulspear.cs" t="Include" />
+            <e p="SpellSoulspear.png" t="Include" />
+          </e>
+          <e p="BattleSpellScroll.png" t="Include" />
+          <e p="Buffs" t="Include">
+            <e p="AllBuffSpells.cs" t="Include" />
+            <e p="BuffSpell.cs" t="Include" />
+            <e p="SpellBuffAmmo.png" t="Include" />
+            <e p="SpellBuffArchery.png" t="Include" />
+            <e p="SpellBuffDanger.png" t="Include" />
+            <e p="SpellBuffEndurance.png" t="Include" />
+            <e p="SpellBuffFeaterfall.png" t="Include" />
+            <e p="SpellBuffGills.png" t="Include" />
+            <e p="SpellBuffGravity.png" t="Include" />
+            <e p="SpellBuffHunter.png" t="Include" />
+            <e p="SpellBuffInferno.png" t="Include" />
+            <e p="SpellBuffIronskin.png" t="Include" />
+            <e p="SpellBuffLifeforce.png" t="Include" />
+            <e p="SpellBuffRage.png" t="Include" />
+            <e p="SpellBuffRegeneration.png" t="Include" />
+            <e p="SpellBuffSwiftness.png" t="Include" />
+            <e p="SpellBuffThorns.png" t="Include" />
+            <e p="SpellEmpty.png" t="Include" />
+          </e>
+          <e p="Quick" t="Include">
+            <e p="QuickSpellDemonScythe.png" t="Include" />
+            <e p="QuickSpellFireFirework.png" t="Include" />
+            <e p="QuickSpellGlow.png" t="Include" />
+            <e p="QuickSpells.cs" t="Include" />
+            <e p="QuickSpellSkyArrows.png" t="Include" />
+          </e>
+          <e p="QuickSpellScroll.png" t="Include" />
+          <e p="SpellScroll.cs" t="Include" />
+          <e p="SpellScroll.png" t="Include" />
+          <e p="SpellTeleportation.cs" t="Include" />
+          <e p="SpellTeleportation.png" t="Include" />
+        </e>
+        <e p="Tools" t="Include">
+          <e p="CrystalliteAxe.png" t="Include" />
+          <e p="CrystallitePickaxe.png" t="Include" />
+          <e p="CrystalliteTools.cs" t="Include" />
+        </e>
+        <e p="Weapons" t="Include">
+          <e p="Elements" t="Include">
+            <e p="FireSphere.cs" t="Include" />
+            <e p="FireSphere.png" t="Include" />
+            <e p="FlameFusion.cs" t="Include" />
+            <e p="FlameFusion.png" t="Include" />
+            <e p="IceFusion.cs" t="Include" />
+            <e p="IceFusion.png" t="Include" />
+            <e p="IceSphere.cs" t="Include" />
+            <e p="IceSphere.png" t="Include" />
+            <e p="NatureFusion.cs" t="Include" />
+            <e p="NatureFusion.png" t="Include" />
+            <e p="NatureSphere.cs" t="Include" />
+            <e p="NatureSphere.png" t="Include" />
+            <e p="TheCoreOfPyromania.cs" t="Include" />
+          </e>
+          <e p="Staffs" t="Include">
+            <e p="CthulhusTwister.cs" t="Include" />
+            <e p="CthulhusTwister.png" t="Include" />
+            <e p="LeafStaff.cs" t="Include" />
+            <e p="LeafStaff.png" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Maggic.cs" t="Include" />
+      <e p="Maggic.csproj" t="IncludeRecursive" />
+      <e p="Maggic.sln" t="IncludeFlat" />
+      <e p="NPCs" t="Include">
+        <e p="GiantIceCube.cs" t="Include" />
+        <e p="GiantIceCube.png" t="Include" />
+        <e p="IceCube.cs" t="Include" />
+        <e p="IceCube.png" t="Include" />
+        <e p="Phoenix.cs" t="Include" />
+        <e p="Phoenix.png" t="Include" />
+        <e p="SpectreMoth.cs" t="Include" />
+        <e p="SpectreMoth.png" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" t="Include" />
+          <e p="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" t="Include" />
+          <e p="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Others.cs" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Projectiles" t="Include">
+        <e p="Friendly" t="Include">
+          <e p="CrystalSoulSpear.cs" t="Include" />
+          <e p="CrystalSoulSpear.png" t="Include" />
+          <e p="CthulhuTwister.cs" t="Include" />
+          <e p="CthulhuTwister.png" t="Include" />
+          <e p="Element" t="Include">
+            <e p="CircularFireball.cs" t="Include" />
+            <e p="CircularFireball.png" t="Include" />
+            <e p="CircularIce.cs" t="Include" />
+            <e p="CircularIce.png" t="Include" />
+            <e p="CircularLeaf.cs" t="Include" />
+            <e p="CircularLeaf.png" t="Include" />
+            <e p="FlameFusionSphere.cs" t="Include" />
+            <e p="FlameFusionSphere.png" t="Include" />
+            <e p="FlameFusionSphere2.png" t="Include" />
+            <e p="IceFusionSphere.cs" t="Include" />
+            <e p="IceFusionSphere.png" t="Include" />
+            <e p="IceFusionSphere2.png" t="Include" />
+            <e p="NatureFusionSphere.cs" t="Include" />
+            <e p="NatureFusionSphere.png" t="Include" />
+            <e p="NatureFusionSphere2.png" t="Include" />
+            <e p="PyroCore.cs" t="Include" />
+          </e>
+          <e p="FireFirework.cs" t="Include" />
+          <e p="FireFirework.png" t="Include" />
+          <e p="GlowBlow.cs" t="Include" />
+          <e p="GlowBlow.png" t="Include" />
+          <e p="LeafBunch.cs" t="Include" />
+          <e p="LeafBunch.png" t="Include" />
+          <e p="MushroomProj.cs" t="Include" />
+          <e p="MushroomProj.png" t="Include" />
+          <e p="NebulaDrop.cs" t="Include" />
+          <e p="NebulaDrop.png" t="Include" />
+          <e p="NebulaRaindrop.cs" t="Include" />
+          <e p="NebulaRaindrop.png" t="Include" />
+          <e p="SoulSpear.cs" t="Include" />
+          <e p="SoulSpear.png" t="Include" />
+          <e p="SpectreMothHeal.png" t="Include" />
+        </e>
+        <e p="Hostile" t="Include">
+          <e p="Icy.cs" t="Include" />
+          <e p="Icy.png" t="Include" />
+          <e p="PhoenixFeather.cs" t="Include" />
+          <e p="PhoenixFeather.png" t="Include" />
+        </e>
+      </e>
+      <e p="UnknownSprite.png" t="Include" />
+    </e>
+  </component>
+</project>

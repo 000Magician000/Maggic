@@ -1,0 +1,50 @@
+-----|Maggic v0.4|-----
+
+This mod adds new magical items
+Have a good game!
+(some items may not work correctly in multiplayer)
+
+-----Changelog-----
+
+---0.4 ()---
+-Added mod icon
+-Added new items
+-Some sprites have been changed
+-Changed crafts
+-Some other small changes
+-Fixed some bugs
+
+---0.3.3.1 (17 january 2018)---
+-Some fixes and other small changes
+
+---0.3.3 (16 january 2018)---
+-Now Spell: Teleport gives debuff "Chaos State"
+
+---0.3.2 (15 january 2018)---
+-Changed "Quick Spell: Glow Blow" mechanics
+-Changed Spell Scroll price
+-Some other small changes
+
+---0.3.1 (15 january 2018)---
+-Changed crafts for buff spells
+-Added new buff spells
+
+---0.3 (14 january 2018)---
+-Renamed all spells
+-Added new spells
+-Added buff spells, which give you a buff for a minute and dyslexia for 2 minutes, during which you cannot use these spells again
+-Added quick spells, which spent when using (drops from some mobs)
+-Changed attack for fire (fire, frozen fire, cursed fire) spells
+-Removed increasing the range of some spells, now they have almost similar attack range
+
+---0.2 (22 december 2017)---
+-Total 14 items
+-Added Spell: Teleport, which can teleport you to a random point in the world
+-Added Spells: Petal, which shoot flower petals
+-Reduced damage from <Spells: Cursed Fire>
+-Added changelog
+
+---0.1 (21 december 2017)---
+-Released
+-Total 10 items
+-Now in pre-hardmode you can't get more than 100 mana from Mana Crystals
